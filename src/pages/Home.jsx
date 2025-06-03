@@ -41,8 +41,6 @@ export default function Home() {
             <p>Hey,I am</p>
             <h1>Razib Khan</h1>
             <p>Hi, I am <span id='intro' className='text-cyan-300'></span></p>
-            {/* <p>I'm a passionate <strong>Web Developer</strong> specializing </p> */}
-            {/* <p> in front-end and full-stack development.</p> */}
           </div>
           <div className='image'>
             <img src={profileImg}></img>
