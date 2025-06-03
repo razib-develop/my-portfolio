@@ -38,8 +38,8 @@ export default function Home() {
         <h1 className='ra'><strong>Home</strong></h1>
         <section className='home'>
           <div className='middle'>
-            <p>Hey,I am</p>
-            <h1>Razib Khan</h1>
+            <p>Hey,I am Razib Khan</p>
+            {/* <h1></h1> */}
             <p>Hi, I am <span id='intro' className='text-cyan-300'></span></p>
           </div>
           <div className='image'>
